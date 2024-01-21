@@ -1,6 +1,12 @@
 <h1 align="center"> DevToolsHub
  </h1>
 
+ <h4 align="center"> 
+	🚧🚀 Em construção...  🚧
+</h4> 
+
+<hr>
+
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/KennedyBarreto/devtoolshub?color=af0fff">
 
@@ -32,8 +38,8 @@
 
 Site com várias ferramentas uteis para desenvolvedores
 
- ## :sparkles: Funcionalidades ##
-<!--
+<!-- ## :sparkles: Funcionalidades ##
+
 :heavy_check_mark: Gerar links de contato para Whatsapp; <br>
 :heavy_check_mark: Permite enviar mensagens personalizadas embutidas ao link; <br>
 :heavy_check_mark: Formatação de texto com estilos nativos do Whatsapp, com preview simultâneo;<br>
@@ -57,8 +63,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Certifique-se de que você possui o <a href="https://nodejs.org/en">Node.js 20</a> instalado
 em sua máquina
 
-## :checkered_flag: Começando ##
-<!--
+<!--## :checkered_flag: Começando ##
+
 1 - Clone/Copie o repositório em sua máquina 
 
 2 - Instale as dependencias
