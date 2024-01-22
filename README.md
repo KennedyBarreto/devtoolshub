@@ -38,12 +38,17 @@
 
 Site com várias ferramentas uteis para desenvolvedores
 
-<!-- ## :sparkles: Funcionalidades ##
+ ## :sparkles: Funcionalidades ##
 
-:heavy_check_mark: Gerar links de contato para Whatsapp; <br>
-:heavy_check_mark: Permite enviar mensagens personalizadas embutidas ao link; <br>
-:heavy_check_mark: Formatação de texto com estilos nativos do Whatsapp, com preview simultâneo;<br>
-:heavy_check_mark: Opção de criar links com titulos customizados<br> -->
+- [ ] Seletor de Cores & Conta Gotas
+- [ ] Gerador de README.md
+- [ ] Conversor de Bases(Binário, Hexadecimal...)
+- [ ] Gerador de Pessoas(CPF, RG, Nome...)
+- [ ] Gerador de Texto Aleatório(Lorem Ipsum)
+- [ ] Manipulador de Imagens(conversão, compressão, edição simples)
+  
+
+<!-- :heavy_check_mark: Opção de criar links com titulos customizados<br> -->
 
 
 
