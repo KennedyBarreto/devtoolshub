@@ -45,8 +45,8 @@ Site com várias ferramentas uteis para desenvolvedores
 - [ ] Conversor de Bases(Binário, Hexadecimal...)
 - [ ] Gerador de Pessoas(CPF, RG, Nome...)
 - [ ] Gerador de Texto Aleatório(Lorem Ipsum)
-- [ ] Manipulador de Imagens(conversão, compressão, edição simples)
-  
+- [ ] Manipulador de Imagens(conversão, compressão, edição simples) <br>
+  e muito mais...
 
 <!-- :heavy_check_mark: Opção de criar links com titulos customizados<br> -->
 
